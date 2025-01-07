@@ -1,0 +1,514 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="HBO HU">
+    <display-name lang="hu">HBO</display-name>
+    <icon src="https://www.tvmustra.hu/logok/csatikon/hbo.gif" />
+    <url>http://www.tvmustra.hu</url>
+  </channel>
+  <channel id="HBO 2 HU">
+    <display-name lang="hu">HBO 2</display-name>
+    <icon src="https://www.tvmustra.hu/logok/csatikon/hbo2.gif" />
+    <url>http://www.tvmustra.hu</url>
+  </channel>
+  <channel id="HBO 3 HU">
+    <display-name lang="hu">HBO 3</display-name>
+    <icon src="https://www.tvmustra.hu/logok/csatikon/hbo3.gif" />
+    <url>http://www.tvmustra.hu</url>
+  </channel>
+  <channel id="m1 HU">
+    <display-name lang="hu">m1 HD</display-name>
+    <icon src="https://www.tvmustra.hu/logok/csatikon/m1hd.gif" />
+    <url>http://www.tvmustra.hu</url>
+  </channel>
+  <programme start="20250107060000 +0100" stop="20250107073700 +0100" channel="HBO HU">
+    <title lang="hu">Belfast</title>
+    <desc lang="hu">Történelmi eseményeken alapuló, részben önéletrajzi dráma Kenneth Branagh rendezésében egy munkásosztálybeli családról és kisfiukról, akik megélik a Belfastot megosztó, '60-as években kezdődő konfliktust a katolikusok és protestánsok között.(n)</desc>
+    <date>2021</date>
+  </programme>
+  <programme start="20250107073700 +0100" stop="20250107092100 +0100" channel="HBO HU">
+    <title lang="hu">Előző életek</title>
+    <desc lang="hu">Az írónő Norát és gyerekkori szerelmét mély kötelék fűzi egymáshoz, bár több ezer kilométer választja el őket és több, mint két évtizednyi távollét. Amikor váratlanul összefutnak New Yorkban, Nora felteszi a kérdést: "Mi lenne, ha...?(n)</desc>
+    <date>2023</date>
+  </programme>
+  <programme start="20250107092100 +0100" stop="20250107105800 +0100" channel="HBO HU">
+    <title lang="hu">Aristotle és Dante a világmindenség titkainak nyomában</title>
+    <desc lang="hu">A Benjamin Alire Sáenz ifjúsági regénye alapján készült film főhősei két tizenéves, magányos mexikói-amerikai fiú, akik 1987-ben El Pasóban szokatlan barátságot kötnek, és rálépnek az önfelfedezés nehéz útjára.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20250107105800 +0100" stop="20250107122100 +0100" channel="HBO HU">
+    <title lang="hu">Rejtélyes répatorta és gyilkosság</title>
+    <desc lang="hu">Hannah, a pék és amatőr detektív csontvázra bukkan egy építés alatt álló ház területén. Kiderül, hogy egy szeretett régi lakó hunyt el rejtélyes körülmények között. Hannah vőlegénye rosszallása ellenére és anyja segítségével nyomozni kezd.(n)</desc>
+    <date>2023</date>
+  </programme>
+  <programme start="20250107122100 +0100" stop="20250107134500 +0100" channel="HBO HU">
+    <title lang="hu">Róise és Frank</title>
+    <desc lang="hu">Egy nő férje hosszú házasság után meghal. Özvegye képtelen elfogadni a veszteségét és már szinte feladta az életét, ám egy nap, amikor felbukkan egy kóbor kutya, a fejébe veszi, hogy az néhai férjének reinkarnációja.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20250107134500 +0100" stop="20250107153100 +0100" channel="HBO HU">
+    <title lang="hu">Érdekvédelmi terület</title>
+    <desc lang="hu">Auschwitz parancsnoka, Rudolf Höss és felesége, Hedwig a koncentrációs tábor melletti birtokon kialakítják a saját kis földi paradicsomukat, ahol családjuk áloméletet élhet.(n)</desc>
+    <date>2023</date>
+  </programme>
+  <programme start="20250107153100 +0100" stop="20250107171600 +0100" channel="HBO HU">
+    <title lang="hu">Golfozók gyöngye</title>
+    <desc lang="hu">Az álmodozó, örök optimista Maurice Flitcroft 1976-ban bejutott a British Open Golf Championship selejtezőjébe, hogy professzionális golftudás híján minden idők legrosszabb eredményével váljon híressé és egyben ünnepelt sztárrá.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20250107171600 +0100" stop="20250107200000 +0100" channel="HBO HU">
+    <title lang="hu">Benjamin Button különös élete</title>
+    <desc lang="hu">Benjamin Button nyolcvan évesen született, az idő múlásával pedig egyre fiatalabb lesz. Bár fordított életpályát fut be, egyetlen dologban nagyon is hasonlít a hétköznapi emberekhez: ő sem képes megállítani az időt.(n)</desc>
+    <date>2008</date>
+    <icon src="https://www.tvmustra.hu/800_kepek/9b84c710b75f31f89028022bde71faaa/8df1581cf9706b1268531d74914d40a6.jpg" />
+  </programme>
+  <programme start="20250107200000 +0100" stop="20250107215100 +0100" channel="HBO HU">
+    <title lang="hu">Az elveszett város</title>
+    <desc lang="hu">A zseniális, de visszahúzódó író, Loretta Sage (Sandra Bullock) pályafutását azzal töltötte, hogy egzotikus helyekről írt népszerű romantikus kalandregényeiben, amelyek borítóján Alan szerepel, a jóképű címlapmodell, aki életét a Dash névre hallgató hős karakterének szentelte. Miközben Loretta Alannal együtt népszerűsíti az új könyvét, elrabolja egy különc milliárdos, aki azt reméli, hogy a nő elvezetheti őt a legújabb történetében megírt, elveszett ősi város kincséhez. Alan be akarja bizonyítani, hogy a való életben is tud hős lenni, és nem csak a könyvek oldalain, ezért elindul, hogy megmentse őt. A furcsa páros egy gigászi dzsungelbeli kalandba csöppen, és meg kell tanulniuk együttműködni ahhoz, hogy túléljenek a természetben, és megtalálják az ősi kincset, mielőtt az örökre elveszne.(n)</desc>
+    <date>2022</date>
+    <icon src="https://www.tvmustra.hu/800_kepek/6af6012c337309789e909f5d81acccd4/TheLostCity_po2x3_2000x3000_01.jpg" />
+  </programme>
+  <programme start="20250107215100 +0100" stop="20250108003000 +0100" channel="HBO HU">
+    <title lang="hu">Jesse James meggyilkolása, a tettes a gyáva Robert Ford</title>
+    <desc lang="hu">Az 1870-es évek Jesse James nevétől volt hangos. Az egykori konföderációs katona, akinek életét tönkretette a polgárháború, a maga sajátos módján vágott vissza a déliek vereségéért az uniónak. Bandájával végigportyázta a vadnyugatot, bankokat, vonatokat rabolt ki. Az egyszerű ember számára amolyan Robin Hood volt, aki szembeszállt a farmereket kizsákmányoló vasúttársaságokkal és bankokkal, és amit elvett a gazdagoktól, azt a szegényeknek adta. Sokak számára pedig ő volt az utolsó vadnyugati hős, a szabadság és az amerikai szellem szimbóluma. Ron Hansen regényéből.(n)</desc>
+    <date>2007</date>
+    <icon src="https://www.tvmustra.hu/800_kepek/38fcea6ba8e1d01d221826b0a3a61fad/7fb30b3105cbedc4414d9a8b1e136ae5.jpg" />
+  </programme>
+  <programme start="20250107060000 +0100" stop="20250107074000 +0100" channel="HBO 2 HU">
+    <title lang="hu">Quiz Lady</title>
+    <desc lang="hu">Egy zseniális, de zárkózott, játékshow-mániás lánynak együtt kell működnie elhidegült, csődtömeg nővérével, amikor kiderül, hogy anyjuk szerencsejáték-tartozást halmozott fel. Együtt indulnak vad országjárásra, hogy pénzhez jussanak a játék révén.(n)</desc>
+    <date>2023</date>
+  </programme>
+  <programme start="20250107074000 +0100" stop="20250107092100 +0100" channel="HBO 2 HU">
+    <title lang="hu">A Lego kaland</title>
+    <desc lang="hu">Az animációs film Emmet, az átlagos LEGO-figura történetét meséli el, akiről véletlenül azt hiszik, ő a legkülönlegesebb személy, a világ megmentésének kulcsa. Néhány segítő mellé sodródik, akik meg akarnak állítani egy gonosz uralkodót.(n)</desc>
+    <date>2014</date>
+    <icon src="https://www.tvmustra.hu/800_kepek/1e1f2aba37ed24c48288dce5893c2896/fullres-LGTT0387.jpg" />
+  </programme>
+  <programme start="20250107092100 +0100" stop="20250107104500 +0100" channel="HBO 2 HU">
+    <title lang="hu">A titkos Télapó nyomában</title>
+    <desc lang="hu">A gyerekújságíró, Sophia rátalál egy karácsonyi történetre, egy elveszett, át nem adott titkos ajándékra, és ettől azt reméli, hogy megmentheti a karrierjét. Miközben az ajándék sorsát próbálja rendezni, ő maga is ajándékot kap.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20250107104500 +0100" stop="20250107113100 +0100" channel="HBO 2 HU">
+    <title lang="hu">Megszállottak viadala</title>
+    <sub-title lang="hu">Megszállottak viadala 2</sub-title>
+    <desc lang="hu">Eve egy unalmas biztonsági szolgálati munkatárs, Villanelle pedig egy elegáns, tehetséges pszichopata gyilkos. A két intelligens nő, akik egyformán megszállottak egymás iránt, egy epikus macska-egér játékban feszülnek egymásnak. A legutóbbi megbízását követően Villanelle-t megkérik, hogy tartson egy kis szünetet. Eközben Eve megkapja álmai lehetőségét: csatlakozhat ahhoz a titkos MI6-egységhez, amely Villanelle és az őt irányító sötét szervezet után nyomoz.(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20250107113100 +0100" stop="20250107131000 +0100" channel="HBO 2 HU">
+    <title lang="hu">Álmom egy otthon</title>
+    <desc lang="hu">Egy törpenövésű közgazdaságtan tanár álma a saját otthon, amit elérhetetlennek gondol, ám egy nap pazar ajánlatot kap: egy magányos özvegy fillérekért ajánlja fel hatalmas birtokát. Hamar kiderül, hogy mindez túl szép, hogy igaz legyen.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20250107131000 +0100" stop="20250107144600 +0100" channel="HBO 2 HU">
+    <title lang="hu">Norvég álom</title>
+    <desc lang="hu">A 19 éves, lengyel Robert Norvégiában dolgozik egy halfeldolgozó gyárban, hogy kifizesse anyja adósságait. Beleszeret egy kollégájába, Ivarba, de kénytelen titkolni érzéseit, mert attól tart, elveszíti pozícióját a lengyel csapatban a gyárban.(n)</desc>
+    <date>2023</date>
+  </programme>
+  <programme start="20250107144600 +0100" stop="20250107162600 +0100" channel="HBO 2 HU">
+    <title lang="hu">Darabokban</title>
+    <desc lang="hu">Davis sikeres befektetési bankár, szép feleséggel, házzal, autóval. Egy nap azonban autóbalesetben elveszíti nejét. Sajátos módon dolgozza fel a veszteséget: ahelyett, hogy összetörne, tovább éli az életét. Az érzéseit egy büféautomata üzemeltetőjének írott panaszleveleiben kezdi kibeszélni, míg a frusztrációját rossz háztartási gépek szétszedésében éli ki. Davis levelei felkeltik az ügyfélszolgálaton dolgozó Karen érdeklődését, és a két idegen között valószerűtlen kapcsolat kezd kibontakozni.(n)</desc>
+    <date>2015</date>
+  </programme>
+  <programme start="20250107162600 +0100" stop="20250107175000 +0100" channel="HBO 2 HU">
+    <title lang="hu">Mancs őrjárat: A film</title>
+    <desc lang="hu">Amikor a bajkeverő Humdinger lesz a közeli Adventure City polgármestere, Ryder és a hősies kutyusok rákapcsolnak, hogy megoldják a problémákat, és közben új szövetségesre is szert tesznek: melléjük szegődik a rafkós kis Liberty tacskó.(n)</desc>
+    <date>2021</date>
+    <icon src="https://www.tvmustra.hu/800_kepek/06e977f742df4ea28c3c05ce5bd049a6/PP-FF-164.jpg" />
+  </programme>
+  <programme start="20250107175000 +0100" stop="20250107193100 +0100" channel="HBO 2 HU">
+    <title lang="hu">Marmalade</title>
+    <desc lang="hu">Egy frissen börtönbe került suhanc barátságot köt szabadulóművész cellatársával, és miközben szökési tervüket kidolgozzák, felidézi, hogy találkozott élete szerelmével, akivel kiraboltak egy bankot, hogy el tudják látni a fiú beteg édesanyját.(n)</desc>
+    <date>2024</date>
+  </programme>
+  <programme start="20250107193100 +0100" stop="20250107212600 +0100" channel="HBO 2 HU">
+    <title lang="hu">Az alapító</title>
+    <desc lang="hu">Egy ambiciózus üzletember mindent megtesz annak érdekében, hogy átvegye az irányítást egy gyorsétteremlánc felett, és megalkossa a milliárdos forgalmat bonyolító, ikonikus gyorsétterem-birodalmat.(n)</desc>
+    <date>2016</date>
+  </programme>
+  <programme start="20250107212600 +0100" stop="20250107232500 +0100" channel="HBO 2 HU">
+    <title lang="hu">Hellraiser</title>
+    <desc lang="hu">A rémisztő, újragondolt horrorklasszikus újra borzolja az idegeinket: egy függőséggel küszködő fiatal nő birtokába kerül egy ősi rejtvénydoboz, de nem is sejti, hogy a doboz milyen szadista, túlvilági lényeket szabadít a világra.(n)</desc>
+    <date>2022</date>
+    <icon src="https://www.tvmustra.hu/800_kepek/92ab4ce497b1933c7e060d7d37b7398e/Hellraiser_st16x9_3840x2160_A02.jpg" />
+  </programme>
+  <programme start="20250107232500 +0100" stop="20250108015600 +0100" channel="HBO 2 HU">
+    <title lang="hu">Gladiátor</title>
+    <desc lang="hu">Amikor a nagy tekintélyű, elismert római hadvezért, Maximust elárulja és családját meggyilkolja a császár hataloméhes fia, Commodus, gladiátorként Rómába megy, hogy bosszút álljon.(n)</desc>
+    <date>2000</date>
+    <icon src="https://www.tvmustra.hu/800_kepek/cc584d2d5a3909ae602c3811b7c20cbd/P5775_48718.jpg" />
+  </programme>
+  <programme start="20250107060000 +0100" stop="20250107074100 +0100" channel="HBO 3 HU">
+    <title lang="hu">Fényévek</title>
+    <desc lang="hu">A 17 éves Elsa rádöbben, hogy élete, ami épphogy elkezdődött, rögtön véget is érhet: leukémiás, és sürgős csontvelő-átültetésre van szüksége. Az egyetlen kompatibilis donor? Valaki, akit soha nem látott, és a nevét sem tudja: az apja.(n)</desc>
+    <date>2023</date>
+  </programme>
+  <programme start="20250107074100 +0100" stop="20250107100600 +0100" channel="HBO 3 HU">
+    <title lang="hu">Jurassic World: Világuralom</title>
+    <desc lang="hu">Négy évvel azután, hogy a Nublar-sziget elpusztult, a dinoszauruszok világszerte az emberek között élnek - és vadásznak. Ám a törékeny egyensúly megbomlik, így felmerül, hogy a veszélyes ragadozók átveszik-e az uralmat az ember felett.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20250107100600 +0100" stop="20250107103600 +0100" channel="HBO 3 HU">
+    <title lang="hu">Az alelnök</title>
+    <sub-title lang="hu">Az alelnök 1</sub-title>
+    <desc lang="hu">A Washingtonban játszódó vígjátéksorozat főszereplője az egykori szenátor, Selina Meyer. A nő alelnökké válik, de rá kell jönnie, hogy az állás egyáltalán nem olyan, mint amilyennek elképzelte, ellenben minden beigazolódik, amitől óva intették. Az évad első epizódjában Selina Meyer alelnök és a csapata - Amy, a személyzeti vezető, Mike, a szóvivő, Gary, Selina jobbkeze és Sue, az asszisztens - próbálják megtalálni a helyüket Washington D.C-ben.(n)</desc>
+    <date>2012</date>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20250107103600 +0100" stop="20250107110600 +0100" channel="HBO 3 HU">
+    <title lang="hu">Az alelnök</title>
+    <sub-title lang="hu">Az alelnök 2</sub-title>
+    <desc lang="hu">A Washingtonban játszódó vígjátéksorozat főszereplője az egykori szenátor, Selina Meyer. A nő alelnökké válik, de rá kell jönnie, hogy az állás egyáltalán nem olyan, mint amilyennek elképzelte, ellenben minden beigazolódik, amitől óva intették. Az alelnök csapata örömmel veszi a jó hírt, hogy a munkacsoportjukat valószínűleg felállíthatják. Miközben az elnök (szerencsére) külföldön van, Selina próbál az obstrukció reform ügyével haladni, és közben "normális" emberekkel találkozni.(n)</desc>
+    <date>2012</date>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20250107110600 +0100" stop="20250107130000 +0100" channel="HBO 3 HU">
+    <title lang="hu">Csetepaté</title>
+    <desc lang="hu">Új-Zélandon 1981-ben a dél-afrikai rögbicsapat érkezése országos tiltakozást vált ki az apartheid és a rasszizmus ellen. A 17 éves, félvér, passzív szemlélődő Josh most hirtelen arra kényszerül, hogy kiálljon önmagáért, családjáért és a jövőjéért.(n)</desc>
+    <date>2023</date>
+  </programme>
+  <programme start="20250107130000 +0100" stop="20250107134500 +0100" channel="HBO 3 HU">
+    <title lang="hu">All American: Hazatérés</title>
+    <sub-title lang="hu">All American: Hazatérés III/9</sub-title>
+    <desc lang="hu">Egy fiatal, Beverly Hills-i tenisztehetség és egy chicagói elit baseball játékos küzd meg az egyetemi sportélet kihívásaival, miközben szabad, fiatal felnőttként próbálják kezelni a jó, a rossz és a szexi hétköznapokat a nagy presztízsű egyetemen. Simone-nak meg kell küzdenie a helyéért a csapatban, és váratlan ellenfélre akad. JR és Lando megpróbálják visszahozni a baseballt Bringstonba. Cam remekel a pályán, ennek következtében Big Hank meglátogatja. Keisha váratlan helyről kap híreket.(n)</desc>
+    <date>2024</date>
+    <episode-num system="onscreen">S3 E9</episode-num>
+  </programme>
+  <programme start="20250107134500 +0100" stop="20250107161000 +0100" channel="HBO 3 HU">
+    <title lang="hu">Nyolc hegy</title>
+    <desc lang="hu">Csodaszép utazás, amely a barátság és az önfelfedezés páratlan történetét tárja elénk az olasz Alpok lélegzetelállító tájain.(n)</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20250107161000 +0100" stop="20250107175100 +0100" channel="HBO 3 HU">
+    <title lang="hu">Mocskos kis levelek</title>
+    <desc lang="hu">Igaz történeten alapuló fergeteges vígjáték a konzervatív vénkisasszonyról, aki trágár leveleket kap. Először nagyszájú szomszédját, a bevándorló Rose-t vádolják, ám a város asszonyai úgy sejtik, máshol van a kutya elásva és nyomozni kezdenek.(n)</desc>
+    <date>2023</date>
+  </programme>
+  <programme start="20250107175100 +0100" stop="20250107192000 +0100" channel="HBO 3 HU">
+    <title lang="hu">Pofozóklub a gimiben</title>
+    <desc lang="hu">Két középiskolás lány, PJ és Josie önvédelmi klubot alapítanak, amellyel a titkos céljuk az, hogy elveszítsék a szüzességüket a pompomlányokkal még az érettségi előtt. A klub egyre népszerűbbé válik és fennáll a veszélye, hogy bizarr tervük kiderül.(n)</desc>
+    <date>2023</date>
+  </programme>
+  <programme start="20250107192000 +0100" stop="20250107201100 +0100" channel="HBO 3 HU">
+    <title lang="hu">Kiút</title>
+    <sub-title lang="hu">Kiút II/3</sub-title>
+    <desc lang="hu">A rémálmok városa foglyul ejt mindenkit, aki ide érkezik, miközben az akaratuk ellenére itt élők próbálnak elmenekülni. Kenny és Ellis szörnyű felfedezést tesz odakint az erdőben. Boyd próbálja felfogni azt, ami történik vele.(n)</desc>
+    <date>2023</date>
+    <episode-num system="onscreen">S2 E3</episode-num>
+  </programme>
+  <programme start="20250107201100 +0100" stop="20250107210100 +0100" channel="HBO 3 HU">
+    <title lang="hu">Kiút</title>
+    <sub-title lang="hu">Kiút II/4</sub-title>
+    <desc lang="hu">A rémálmok városa foglyul ejt mindenkit, aki ide érkezik, miközben az akaratuk ellenére itt élők próbálnak elmenekülni. Boyd állapota egyre riasztóbbá válik, és Sara visszatérése a városba is nehéz helyzetbe hozza őt. Jim megoszt egy aggasztó új elméletet a várossal kapcsolatban.(n)</desc>
+    <date>2023</date>
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20250107210100 +0100" stop="20250107220200 +0100" channel="HBO 3 HU">
+    <title lang="hu">Botrány királyi módra</title>
+    <sub-title lang="hu">Botrány királyi módra 1</sub-title>
+    <desc lang="hu">Az angol királynő fia, András herceg is belekeveredett az elítélt szexuális ragadozó, Jeffrey Epstein botrányába. Sorozat a herceget ért vádakról, az Emily Maitlis által készített, nagy port kavart interjúról és annak váratlan következményeiről. András herceg ártatlanságát igyekszik bizonyítani, miután egy szexuális visszaélésekről szóló botrányba csöppent, amely saját pozíciója mellett a brit monarchiát is veszélybe sodorja. A Newsnight riportere interjút próbál tető alá hozni a herceggel.(n)</desc>
+    <date>2024</date>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20250107220200 +0100" stop="20250107230100 +0100" channel="HBO 3 HU">
+    <title lang="hu">Botrány királyi módra</title>
+    <sub-title lang="hu">Botrány királyi módra 2</sub-title>
+    <desc lang="hu">Az angol királynő fia, András herceg is belekeveredett az elítélt szexuális ragadozó, Jeffrey Epstein botrányába. Sorozat a herceget ért vádakról, az Emily Maitlis által készített, nagy port kavart interjúról és annak váratlan következményeiről. Különféle akadályok nehezítik Emily Maitlis azóta elhíresült Newsnight interjúját András herceggel. Hosszas várakozás után elkezdődik, de a találkozó különféle fordulatokat tartogat, amire sem Emily, sem a Newsnight csapata nem számított.(n)</desc>
+    <date>2024</date>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20250107230100 +0100" stop="20250108000500 +0100" channel="HBO 3 HU">
+    <title lang="hu">Botrány királyi módra</title>
+    <sub-title lang="hu">Botrány királyi módra 3</sub-title>
+    <desc lang="hu">Az angol királynő fia, András herceg is belekeveredett az elítélt szexuális ragadozó, Jeffrey Epstein botrányába. Sorozat a herceget ért vádakról, az Emily Maitlis által készített, nagy port kavart interjúról és annak váratlan következményeiről. Az interjú sokkal komolyabb következményekkel jár, mint ahogy azt András herceg és Emily Maitlis valaha is gondolta. Mindketten kénytelenek egy megújult valóságban eligazodni és szembenézni a változásokkal.(n)</desc>
+    <date>2024</date>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20250107060000 +0100" stop="20250107063000 +0100" channel="m1 HU">
+    <title lang="hu">HÍRADÓ</title>
+    <icon src="https://www.tvmustra.hu/800_kepek/7563560eaa1c077afed1078a0a36cf9d/2f3ee63701e0dc81faeb2b1ce52957d7.jpg" />
+  </programme>
+  <programme start="20250107063000 +0100" stop="20250107063500 +0100" channel="m1 HU">
+    <title lang="hu">Nemzeti Sporthíradó</title>
+  </programme>
+  <programme start="20250107063500 +0100" stop="20250107064500 +0100" channel="m1 HU">
+    <title lang="hu">Időjárás-jelentés</title>
+  </programme>
+  <programme start="20250107064500 +0100" stop="20250107070000 +0100" channel="m1 HU">
+    <title lang="hu">VILÁGHÍRADÓ</title>
+  </programme>
+  <programme start="20250107070000 +0100" stop="20250107071500 +0100" channel="m1 HU">
+    <title lang="hu">HÍRADÓ</title>
+    <icon src="https://www.tvmustra.hu/800_kepek/7563560eaa1c077afed1078a0a36cf9d/2f3ee63701e0dc81faeb2b1ce52957d7.jpg" />
+  </programme>
+  <programme start="20250107071500 +0100" stop="20250107072000 +0100" channel="m1 HU">
+    <title lang="hu">Nemzeti Sporthíradó</title>
+  </programme>
+  <programme start="20250107072000 +0100" stop="20250107073000 +0100" channel="m1 HU">
+    <title lang="hu">Időjárás-jelentés</title>
+  </programme>
+  <programme start="20250107073000 +0100" stop="20250107073300 +0100" channel="m1 HU">
+    <title lang="hu">HÍREK</title>
+  </programme>
+  <programme start="20250107073300 +0100" stop="20250107080000 +0100" channel="m1 HU">
+    <title lang="hu">Ma reggel</title>
+  </programme>
+  <programme start="20250107080000 +0100" stop="20250107081000 +0100" channel="m1 HU">
+    <title lang="hu">HÍRADÓ</title>
+    <icon src="https://www.tvmustra.hu/800_kepek/7563560eaa1c077afed1078a0a36cf9d/2f3ee63701e0dc81faeb2b1ce52957d7.jpg" />
+  </programme>
+  <programme start="20250107081000 +0100" stop="20250107081500 +0100" channel="m1 HU">
+    <title lang="hu">Nemzeti Sporthíradó</title>
+  </programme>
+  <programme start="20250107081500 +0100" stop="20250107082000 +0100" channel="m1 HU">
+    <title lang="hu">Időjárás-jelentés</title>
+  </programme>
+  <programme start="20250107082000 +0100" stop="20250107083000 +0100" channel="m1 HU">
+    <title lang="hu">Ma reggel</title>
+  </programme>
+  <programme start="20250107083000 +0100" stop="20250107083300 +0100" channel="m1 HU">
+    <title lang="hu">HÍREK</title>
+  </programme>
+  <programme start="20250107083300 +0100" stop="20250107090000 +0100" channel="m1 HU">
+    <title lang="hu">Ma reggel</title>
+  </programme>
+  <programme start="20250107090000 +0100" stop="20250107092000 +0100" channel="m1 HU">
+    <title lang="hu">HÍRADÓ</title>
+    <icon src="https://www.tvmustra.hu/800_kepek/7563560eaa1c077afed1078a0a36cf9d/2f3ee63701e0dc81faeb2b1ce52957d7.jpg" />
+  </programme>
+  <programme start="20250107092000 +0100" stop="20250107092200 +0100" channel="m1 HU">
+    <title lang="hu">Időjárás-jelentés</title>
+  </programme>
+  <programme start="20250107092200 +0100" stop="20250107093000 +0100" channel="m1 HU">
+    <title lang="hu">Ma délelőtt</title>
+  </programme>
+  <programme start="20250107093000 +0100" stop="20250107093300 +0100" channel="m1 HU">
+    <title lang="hu">HÍREK</title>
+  </programme>
+  <programme start="20250107093300 +0100" stop="20250107100000 +0100" channel="m1 HU">
+    <title lang="hu">Ma délelőtt</title>
+  </programme>
+  <programme start="20250107100000 +0100" stop="20250107101000 +0100" channel="m1 HU">
+    <title lang="hu">HÍRADÓ</title>
+    <icon src="https://www.tvmustra.hu/800_kepek/7563560eaa1c077afed1078a0a36cf9d/2f3ee63701e0dc81faeb2b1ce52957d7.jpg" />
+  </programme>
+  <programme start="20250107101000 +0100" stop="20250107102000 +0100" channel="m1 HU">
+    <title lang="hu">Nemzeti Sporthíradó</title>
+  </programme>
+  <programme start="20250107102000 +0100" stop="20250107102200 +0100" channel="m1 HU">
+    <title lang="hu">Időjárás-jelentés</title>
+  </programme>
+  <programme start="20250107102200 +0100" stop="20250107103000 +0100" channel="m1 HU">
+    <title lang="hu">Ma délelőtt</title>
+  </programme>
+  <programme start="20250107103000 +0100" stop="20250107103300 +0100" channel="m1 HU">
+    <title lang="hu">HÍREK</title>
+  </programme>
+  <programme start="20250107103300 +0100" stop="20250107105000 +0100" channel="m1 HU">
+    <title lang="hu">Élő egyház</title>
+  </programme>
+  <programme start="20250107105000 +0100" stop="20250107110000 +0100" channel="m1 HU">
+    <title lang="hu">Ma délelőtt</title>
+  </programme>
+  <programme start="20250107110000 +0100" stop="20250107112000 +0100" channel="m1 HU">
+    <title lang="hu">HÍRADÓ</title>
+    <icon src="https://www.tvmustra.hu/800_kepek/7563560eaa1c077afed1078a0a36cf9d/2f3ee63701e0dc81faeb2b1ce52957d7.jpg" />
+  </programme>
+  <programme start="20250107112000 +0100" stop="20250107112200 +0100" channel="m1 HU">
+    <title lang="hu">Időjárás-jelentés</title>
+  </programme>
+  <programme start="20250107112200 +0100" stop="20250107113000 +0100" channel="m1 HU">
+    <title lang="hu">Ma délelőtt</title>
+  </programme>
+  <programme start="20250107113000 +0100" stop="20250107113300 +0100" channel="m1 HU">
+    <title lang="hu">HÍREK</title>
+  </programme>
+  <programme start="20250107113300 +0100" stop="20250107115000 +0100" channel="m1 HU">
+    <title lang="hu">hadERŐ "Hazámat szolgálom!"</title>
+  </programme>
+  <programme start="20250107115000 +0100" stop="20250107120000 +0100" channel="m1 HU">
+    <title lang="hu">Ma délelőtt</title>
+  </programme>
+  <programme start="20250107120000 +0100" stop="20250107120100 +0100" channel="m1 HU">
+    <title lang="hu">Déli harangszó</title>
+  </programme>
+  <programme start="20250107120100 +0100" stop="20250107123500 +0100" channel="m1 HU">
+    <title lang="hu">HÍRADÓ</title>
+    <icon src="https://www.tvmustra.hu/800_kepek/7563560eaa1c077afed1078a0a36cf9d/2f3ee63701e0dc81faeb2b1ce52957d7.jpg" />
+  </programme>
+  <programme start="20250107123500 +0100" stop="20250107124500 +0100" channel="m1 HU">
+    <title lang="hu">Nemzeti Sporthíradó</title>
+  </programme>
+  <programme start="20250107124500 +0100" stop="20250107125000 +0100" channel="m1 HU">
+    <title lang="hu">Időjárás-jelentés</title>
+  </programme>
+  <programme start="20250107125000 +0100" stop="20250107130000 +0100" channel="m1 HU">
+    <title lang="hu">Ma délután</title>
+  </programme>
+  <programme start="20250107130000 +0100" stop="20250107132000 +0100" channel="m1 HU">
+    <title lang="hu">HÍRADÓ</title>
+    <icon src="https://www.tvmustra.hu/800_kepek/7563560eaa1c077afed1078a0a36cf9d/2f3ee63701e0dc81faeb2b1ce52957d7.jpg" />
+  </programme>
+  <programme start="20250107132000 +0100" stop="20250107132200 +0100" channel="m1 HU">
+    <title lang="hu">Időjárás-jelentés</title>
+  </programme>
+  <programme start="20250107132200 +0100" stop="20250107133000 +0100" channel="m1 HU">
+    <title lang="hu">Ma délután</title>
+  </programme>
+  <programme start="20250107133000 +0100" stop="20250107133300 +0100" channel="m1 HU">
+    <title lang="hu">HÍREK</title>
+  </programme>
+  <programme start="20250107133300 +0100" stop="20250107140000 +0100" channel="m1 HU">
+    <title lang="hu">Ma délután</title>
+  </programme>
+  <programme start="20250107140000 +0100" stop="20250107142000 +0100" channel="m1 HU">
+    <title lang="hu">HÍRADÓ</title>
+    <icon src="https://www.tvmustra.hu/800_kepek/7563560eaa1c077afed1078a0a36cf9d/2f3ee63701e0dc81faeb2b1ce52957d7.jpg" />
+  </programme>
+  <programme start="20250107142000 +0100" stop="20250107142200 +0100" channel="m1 HU">
+    <title lang="hu">Időjárás-jelentés</title>
+  </programme>
+  <programme start="20250107142200 +0100" stop="20250107143000 +0100" channel="m1 HU">
+    <title lang="hu">Ma délután</title>
+  </programme>
+  <programme start="20250107143000 +0100" stop="20250107143300 +0100" channel="m1 HU">
+    <title lang="hu">HÍREK</title>
+  </programme>
+  <programme start="20250107143300 +0100" stop="20250107145000 +0100" channel="m1 HU">
+    <title lang="hu">Világ</title>
+  </programme>
+  <programme start="20250107145000 +0100" stop="20250107150000 +0100" channel="m1 HU">
+    <title lang="hu">Ma délután</title>
+  </programme>
+  <programme start="20250107150000 +0100" stop="20250107152000 +0100" channel="m1 HU">
+    <title lang="hu">HÍRADÓ</title>
+    <icon src="https://www.tvmustra.hu/800_kepek/7563560eaa1c077afed1078a0a36cf9d/2f3ee63701e0dc81faeb2b1ce52957d7.jpg" />
+  </programme>
+  <programme start="20250107152000 +0100" stop="20250107152200 +0100" channel="m1 HU">
+    <title lang="hu">Időjárás-jelentés</title>
+  </programme>
+  <programme start="20250107152200 +0100" stop="20250107153000 +0100" channel="m1 HU">
+    <title lang="hu">Ma délután</title>
+  </programme>
+  <programme start="20250107153000 +0100" stop="20250107153300 +0100" channel="m1 HU">
+    <title lang="hu">HÍREK</title>
+  </programme>
+  <programme start="20250107153300 +0100" stop="20250107155000 +0100" channel="m1 HU">
+    <title lang="hu">Élő egyház</title>
+  </programme>
+  <programme start="20250107155000 +0100" stop="20250107160000 +0100" channel="m1 HU">
+    <title lang="hu">Ma délután</title>
+  </programme>
+  <programme start="20250107160000 +0100" stop="20250107161500 +0100" channel="m1 HU">
+    <title lang="hu">HÍRADÓ</title>
+    <icon src="https://www.tvmustra.hu/800_kepek/7563560eaa1c077afed1078a0a36cf9d/2f3ee63701e0dc81faeb2b1ce52957d7.jpg" />
+  </programme>
+  <programme start="20250107161500 +0100" stop="20250107162000 +0100" channel="m1 HU">
+    <title lang="hu">Időjárás-jelentés</title>
+  </programme>
+  <programme start="20250107162000 +0100" stop="20250107163000 +0100" channel="m1 HU">
+    <title lang="hu">Ma délután</title>
+  </programme>
+  <programme start="20250107163000 +0100" stop="20250107163300 +0100" channel="m1 HU">
+    <title lang="hu">HÍREK</title>
+  </programme>
+  <programme start="20250107163300 +0100" stop="20250107170000 +0100" channel="m1 HU">
+    <title lang="hu">Magyar gazda</title>
+  </programme>
+  <programme start="20250107170000 +0100" stop="20250107171000 +0100" channel="m1 HU">
+    <title lang="hu">HÍRADÓ</title>
+    <icon src="https://www.tvmustra.hu/800_kepek/7563560eaa1c077afed1078a0a36cf9d/2f3ee63701e0dc81faeb2b1ce52957d7.jpg" />
+  </programme>
+  <programme start="20250107171000 +0100" stop="20250107171500 +0100" channel="m1 HU">
+    <title lang="hu">Időjárás-jelentés</title>
+  </programme>
+  <programme start="20250107171500 +0100" stop="20250107174500 +0100" channel="m1 HU">
+    <title lang="hu">Ma délután</title>
+  </programme>
+  <programme start="20250107174500 +0100" stop="20250107180000 +0100" channel="m1 HU">
+    <title lang="hu">Agenda</title>
+    <desc lang="hu">Hírek, aktualitások a kultúra, a tudomány és az oktatás területéről minden nap az M5 műsorán.(n)</desc>
+    <date>2025</date>
+  </programme>
+  <programme start="20250107180000 +0100" stop="20250107182500 +0100" channel="m1 HU">
+    <title lang="hu">HÍRADÓ</title>
+    <icon src="https://www.tvmustra.hu/800_kepek/7563560eaa1c077afed1078a0a36cf9d/2f3ee63701e0dc81faeb2b1ce52957d7.jpg" />
+  </programme>
+  <programme start="20250107182500 +0100" stop="20250107183500 +0100" channel="m1 HU">
+    <title lang="hu">Nemzeti Sporthíradó</title>
+  </programme>
+  <programme start="20250107183500 +0100" stop="20250107184500 +0100" channel="m1 HU">
+    <title lang="hu">Időjárás-jelentés</title>
+  </programme>
+  <programme start="20250107184500 +0100" stop="20250107190000 +0100" channel="m1 HU">
+    <title lang="hu">Ma este</title>
+  </programme>
+  <programme start="20250107190000 +0100" stop="20250107190400 +0100" channel="m1 HU">
+    <title lang="hu">Időjárás-jelentés</title>
+  </programme>
+  <programme start="20250107190400 +0100" stop="20250107192500 +0100" channel="m1 HU">
+    <title lang="hu">VILÁGHÍRADÓ</title>
+  </programme>
+  <programme start="20250107192500 +0100" stop="20250107193000 +0100" channel="m1 HU">
+    <title lang="hu">Időjárás-jelentés</title>
+  </programme>
+  <programme start="20250107193000 +0100" stop="20250107202000 +0100" channel="m1 HU">
+    <title lang="hu">HÍRADÓ</title>
+    <icon src="https://www.tvmustra.hu/800_kepek/7563560eaa1c077afed1078a0a36cf9d/2f3ee63701e0dc81faeb2b1ce52957d7.jpg" />
+  </programme>
+  <programme start="20250107202000 +0100" stop="20250107202500 +0100" channel="m1 HU">
+    <title lang="hu">Nemzeti Sporthíradó</title>
+  </programme>
+  <programme start="20250107202500 +0100" stop="20250107203500 +0100" channel="m1 HU">
+    <title lang="hu">Időjárás-jelentés</title>
+  </programme>
+  <programme start="20250107203500 +0100" stop="20250107210000 +0100" channel="m1 HU">
+    <title lang="hu">Ma este</title>
+  </programme>
+  <programme start="20250107210000 +0100" stop="20250107212000 +0100" channel="m1 HU">
+    <title lang="hu">HÍRADÓ</title>
+    <icon src="https://www.tvmustra.hu/800_kepek/7563560eaa1c077afed1078a0a36cf9d/2f3ee63701e0dc81faeb2b1ce52957d7.jpg" />
+  </programme>
+  <programme start="20250107212000 +0100" stop="20250107212200 +0100" channel="m1 HU">
+    <title lang="hu">Időjárás-jelentés</title>
+  </programme>
+  <programme start="20250107212200 +0100" stop="20250107213000 +0100" channel="m1 HU">
+    <title lang="hu">V4 HÍRADÓ</title>
+  </programme>
+  <programme start="20250107213000 +0100" stop="20250107220000 +0100" channel="m1 HU">
+    <title lang="hu">VILÁGHÍRADÓ</title>
+  </programme>
+  <programme start="20250107220000 +0100" stop="20250107222000 +0100" channel="m1 HU">
+    <title lang="hu">HÍRADÓ</title>
+    <icon src="https://www.tvmustra.hu/800_kepek/7563560eaa1c077afed1078a0a36cf9d/2f3ee63701e0dc81faeb2b1ce52957d7.jpg" />
+  </programme>
+  <programme start="20250107222000 +0100" stop="20250107223000 +0100" channel="m1 HU">
+    <title lang="hu">Nemzeti Sporthíradó</title>
+  </programme>
+  <programme start="20250107223000 +0100" stop="20250107224000 +0100" channel="m1 HU">
+    <title lang="hu">Időjárás-jelentés</title>
+  </programme>
+  <programme start="20250107224000 +0100" stop="20250107230000 +0100" channel="m1 HU">
+    <title lang="hu">Ma éjjel</title>
+  </programme>
+  <programme start="20250107230000 +0100" stop="20250107231500 +0100" channel="m1 HU">
+    <title lang="hu">HÍRADÓ</title>
+    <icon src="https://www.tvmustra.hu/800_kepek/7563560eaa1c077afed1078a0a36cf9d/2f3ee63701e0dc81faeb2b1ce52957d7.jpg" />
+  </programme>
+  <programme start="20250107231500 +0100" stop="20250107231900 +0100" channel="m1 HU">
+    <title lang="hu">ANGOL NYELVŰ HÍREK</title>
+  </programme>
+  <programme start="20250107231900 +0100" stop="20250107232200 +0100" channel="m1 HU">
+    <title lang="hu">NÉMET NYELVŰ HÍREK</title>
+  </programme>
+  <programme start="20250107232200 +0100" stop="20250107232600 +0100" channel="m1 HU">
+    <title lang="hu">OROSZ NYELVŰ HÍREK</title>
+  </programme>
+  <programme start="20250107232600 +0100" stop="20250107233000 +0100" channel="m1 HU">
+    <title lang="hu">KÍNAI NYELVŰ HÍREK</title>
+  </programme>
+  <programme start="20250107233000 +0100" stop="20250108000000 +0100" channel="m1 HU">
+    <title lang="hu">VILÁGHÍRADÓ</title>
+  </programme>
+</tv>
